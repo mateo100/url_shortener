@@ -8,6 +8,7 @@
 
 ### endpoints
 1. [POST] /shorten/
+
 body: 
 {
   "url": <WEBSITE_URL>
