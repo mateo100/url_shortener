@@ -7,8 +7,7 @@
 5. python manage.py runserver
 
 ### endpoints
-1. [POST] /shorten/
-
+1. [POST] /shorten/ <br>
 body: 
 {
   "url": <WEBSITE_URL>
